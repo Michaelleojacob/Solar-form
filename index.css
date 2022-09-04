@@ -1,0 +1,5 @@
+@import url('./src/app.css');
+@import url('./src/components/form/form.css');
+@import url('./src/components/pagination/pagination.css');
+@import url('./src/components/file-uploader/file-uploader.css');
+@import url('./src/components/notes/notes.css');
